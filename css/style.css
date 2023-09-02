@@ -1,4 +1,10 @@
-
+#title {
+  font-family: Monoton,cursive;
+  font-size: xx-large;
+  font-weight: 500;
+  letter-spacing: 10px;
+  margin: 25px;
+}
 
 .bgimage {
   height:100vh;
